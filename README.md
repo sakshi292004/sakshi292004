@@ -9,7 +9,7 @@
 - 📊 Trained in Data Science & Python Libraries (NumPy, Pandas, Matplotlib, Scikit-learn, etc.)  
 - 🤖 Worked on LLM Projects & AI-based applications  
 - 💼 Internship Experience:  
-  - Infotact → Software & backend development  
+  - Infotact → Data Science .  
   - Mindenious (3 months) → Industry-level software development & team collaboration  
 - 📚 Training in Data Science & Machine Learning  
 - 🌱 Interested in Web Technologies, Databases, and Artificial Intelligence  
