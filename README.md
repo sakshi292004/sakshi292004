@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Sakshi Ubale  
 
-<!--
-**sakshi292004/sakshi292004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Computer Engineering Student | 📊 Data & AI Enthusiast | ☁️ Cloud Learner  | web devlopmennt
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 💻 Skilled in HTML, CSS, PHP, MySQL, Java, Python, and Azure  
+- 📊 Trained in Data Science & Python Libraries (NumPy, Pandas, Matplotlib, Scikit-learn, etc.)  
+- 🤖 Worked on LLM Projects & AI-based applications  
+- 💼 Internship Experience:  
+  - Infotact → Software & backend development  
+  - Mindenious (3 months) → Industry-level software development & team collaboration  
+- 📚 Training in Data Science & Machine Learning  
+- 🌱 Interested in Web Technologies, Databases, and Artificial Intelligence  
+- 🤝 Contact me for any collaborative project  
+
+---
+ 📫 Contact Me  
+Email: sakkshi6@gmail.com  
+
+✨ Work is Worship  
