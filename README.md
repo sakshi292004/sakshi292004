@@ -1,13 +1,14 @@
 # 👩‍💻 Hi, I'm Sakshi Ubale  
 
-🌟 Computer Engineering Student | 📊 Data & AI Enthusiast | ☁️ Cloud Learner  | web devlopmennt
+🌟 Computer Engineering Student | 📊 Data & AI Enthusiast | ☁️ Cloud Learner  | web devlopment
 
 ---
 
 ## 🚀 About Me  
 - 💻 Skilled in HTML, CSS, PHP, MySQL, Java, Python, and Azure  
 - 📊 Trained in Data Science & Python Libraries (NumPy, Pandas, Matplotlib, Scikit-learn, etc.)  
-- 🤖 Worked on LLM Projects & AI-based applications  
+Framework: Django , Flask , FastApi
+- 🤖 Worked on LLM Projects & AI-based applications , Python based project and React  JS  
 - 💼 Internship Experience:  
   - Infotact → Data Science .  
   - Mindenious (3 months) → Industry-level software development & team collaboration  
